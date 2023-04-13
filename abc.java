@@ -1,7 +1,7 @@
 public class example{
 	public static void main(String args[]){
 	
-	int x = 20;
+	int x = 121;
 	
 	System.out.println(x);
 
